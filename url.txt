@@ -1,0 +1,3 @@
+ini adalah link yang mengarah ke streamlit cloud
+
+https://app-kgmzcpwcarvsyu3a4cgzba.streamlit.app/
